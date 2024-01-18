@@ -53,7 +53,7 @@ function App() {
     } catch (err) {
       console.error(err);
     }
-  };
+  };// git
 
   return (
     <div>
